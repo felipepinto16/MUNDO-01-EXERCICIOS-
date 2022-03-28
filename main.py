@@ -1,5 +1,5 @@
 import mundo01
-'''
+
 print('==========Desafio001==========')
 mundo01.desafio001()       
 print()
@@ -195,7 +195,7 @@ print()
 print('==========Desafio034===============')
 mundo01.desafio034()
 print()
-print()'''
+print()
 
 print('==========Desafio035===============')
 mundo01.desafio035()
